@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003325847317",
+    "project_id": "medreserve-31cc6",
+    "storage_bucket": "medreserve-31cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003325847317:android:1f03d80ea075e413259b1c",
+        "android_client_info": {
+          "package_name": "com.redandwhite.medreserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003325847317-oebl7vtb7kefou72r06a52skuhkme3mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0K0ZtH7CbkYMLIPTg5nf43DuhYuIb-hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003325847317-oebl7vtb7kefou72r06a52skuhkme3mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
