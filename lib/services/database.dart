@@ -31,6 +31,7 @@ class DatabaseService {
       }).toList();
     } catch(e) {
       print(e);
+      return null;
     }
   }
 

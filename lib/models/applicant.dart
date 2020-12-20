@@ -3,7 +3,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 class Applicant {
 
   String applicantId;
-  String phoneNumber;
+  int phoneNumber;
   String email;
   String name;
   int age;

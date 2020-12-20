@@ -61,7 +61,7 @@ class _ApplicantCardState extends State<ApplicantCard> {
                       children: <Widget>[
                         Text("Phone Number: ",
                             style: TextStyle(fontWeight: FontWeight.bold)),
-                        Text(widget.applicant.phoneNumber)
+                        Text(widget.applicant.phoneNumber.toString())
                       ],
                     ),
                     SizedBox(height: 20),

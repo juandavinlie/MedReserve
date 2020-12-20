@@ -62,7 +62,7 @@ class _AcceptedCardState extends State<AcceptedCard> {
                       children: <Widget>[
                         Text("Phone Number: ",
                             style: TextStyle(fontWeight: FontWeight.bold)),
-                        Text(widget.applicant.phoneNumber)
+                        Text(widget.applicant.phoneNumber.toString())
                       ],
                     ),
                     SizedBox(height: 20),
